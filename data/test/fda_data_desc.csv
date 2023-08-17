@@ -1,0 +1,6 @@
+Variable name,Variable category,Variable description,Variable data type
+Pop,Demographics,Total population,Numeric
+GDP,Economy,Gross Domestic Product,Numeric
+Unemp,Labor Market,Unemployment rate,Numeric
+Pov,Social,Poverty rate,Numeric
+ADI,Social,Area Deprivation Index,Numeric

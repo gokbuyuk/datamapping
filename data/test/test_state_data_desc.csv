@@ -1,0 +1,6 @@
+Var Name,Var Category,Var Desc,Var Type
+Population,Demographics,Total population of the state,Numeric
+GDP,Economy,Gross Domestic Product,Numeric
+Unemployment,Labor Market,Unemployment rate,Numeric
+Poverty,Social,Poverty rate,Numeric
+AreaDepIdx,Social,Area Deprivation Index,Numeric
