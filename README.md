@@ -61,8 +61,3 @@ Contributions are welcome! You can help with:
 * Writing tests
 * Improving similarity measure
 * Code review
-
-### Who do I talk to?
-
-* Gokcen Buyukbas
-* Eckart Bindewald
