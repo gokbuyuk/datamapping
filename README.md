@@ -3,7 +3,7 @@ README
 
 
 
-# Semantic Data Mapping Repository
+# Semantic Data Mapping
 
 This repository contains code for computing and determining matches between source and target variables based on semantic similarity metrics. The code is written in Python 3.11.3. Below are descriptions of the major code files in this repository:
 
